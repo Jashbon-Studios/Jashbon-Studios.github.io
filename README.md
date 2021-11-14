@@ -1,4 +1,62 @@
-<html lang="en"><head>
+<html lang="en-US"><head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <link rel="stylesheet" href="/assets/css/style.css?v=a76ad37339be9a8d144e480788e503952f5869bc" media="screen" type="text/css">
+    <link rel="stylesheet" href="/assets/css/print.css" media="print" type="text/css">
+
+    <!--[if lt IE 9]>
+    <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+    <![endif]-->
+
+<!-- Begin Jekyll SEO tag v2.7.1 -->
+<title>Jåshbön Studios | Welcome to Jåshbön Studios Official Homepage</title>
+<meta name="generator" content="Jekyll v3.9.0">
+<meta property="og:title" content="Jåshbön Studios">
+<meta property="og:locale" content="en_US">
+<meta name="description" content="Welcome to Jåshbön Studios Official Homepage">
+<meta property="og:description" content="Welcome to Jåshbön Studios Official Homepage">
+<link rel="canonical" href="https://jashbon-studios.github.io/">
+<meta property="og:url" content="https://jashbon-studios.github.io/">
+<meta property="og:site_name" content="Jåshbön Studios">
+<meta name="twitter:card" content="summary">
+<meta property="twitter:title" content="Jåshbön Studios">
+<script type="application/ld+json">
+{"headline":"Jåshbön Studios","description":"Welcome to Jåshbön Studios Official Homepage","url":"https://jashbon-studios.github.io/","@type":"WebSite","name":"Jåshbön Studios","@context":"https://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+
+
+    <!-- start custom head snippets, customize with your own _includes/head-custom.html file -->
+
+<!-- Setup Google Analytics -->
+
+
+
+<!-- You can set your favicon here -->
+<!-- link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" -->
+
+<!-- end custom head snippets -->
+
+  <style type="text/css">.customer-accounts-app__body[data-v-364d7bb4]{width:100%}.customer-accounts-app__modal-wrapper[data-v-364d7bb4]{position:fixed;top:0;left:0;width:100vw;height:100vh;z-index:17;display:flex;flex-direction:column;justify-content:center;align-items:center;background:rgba(0,0,0,.25)}.customer-accounts-app__modal[data-v-364d7bb4]{width:580px;box-sizing:border-box;max-height:100%;min-height:415px;overflow-y:auto;z-index:18;padding:24px;background:#fff;display:flex}.wsite-theme-dark .customer-accounts-app__modal-wrapper[data-v-364d7bb4]{background:hsla(0,0%,100%,.25)}.wsite-theme-dark .customer-accounts-app__modal[data-v-364d7bb4]{background:#000}@media (max-width:750px){.customer-accounts-app__modal[data-v-364d7bb4]{width:100%;height:100%}}</style><style type="text/css">.loading[data-v-09548d63]{display:flex;width:100%;align-items:center;justify-content:center;margin:15px 0}</style><style type="text/css">.page-header__wrapper[data-v-04176401]{display:flex;flex-direction:row;align-items:center;justify-content:space-between}.page-header__text[data-v-04176401]{margin:0 32px 0 0}.page-header__divider[data-v-04176401]{height:1px;width:100%;margin:24px 0;background:rgba(0,0,0,.1)}</style><style type="text/css">.form-field[data-v-64b6436e]{margin:16px 0}.form-field__label[data-v-64b6436e]{display:flex;flex-direction:column}.form-field__title[data-v-64b6436e]{margin-bottom:8px;font-size:90%;color:#3b526d}.wsite-theme-dark .form-field__title[data-v-64b6436e]{color:#dfe6ee}.form-field__error[data-v-64b6436e]{margin-top:14px}</style><style type="text/css">.field-error[data-v-60fd9ad5]{color:#ff2825}</style><style type="text/css">.form-instructions[data-v-1b20c747]{margin-bottom:24px}</style><style type="text/css">.site-input[data-v-7c9d3469]{border:1px solid #dbdbdb;padding:8px;border-radius:2px}.site-input__is-invalid[data-v-7c9d3469]{border:1px solid #ff2825}</style><style type="text/css">.actions-row[data-v-e3a0cd02]{margin-top:24px;display:flex;flex-direction:row;justify-content:space-between;align-items:center}.actions-row div[data-v-e3a0cd02]:first-child{margin-right:16px}</style><style type="text/css">.back-button[data-v-089f4bca]{display:flex;flex-direction:row;align-items:center}.back-button__icon[data-v-089f4bca]{margin:0 8px 0 0}</style><style type="text/css">p[data-v-5e8be7b5]{font-weight:700}.order-confirmation__checkbox[data-v-5e8be7b5]{margin-right:6px}.order-confirmation__success-message[data-v-5e8be7b5]{display:flex;flex-direction:row;align-items:center}</style><style type="text/css">.register__privacy-policy[data-v-00b778c0]{margin:24px 0;font-size:small}</style><style type="text/css">.customer-accounts-app__body[data-v-a6d2e276]{width:100%}.customer-accounts-app__modal-wrapper[data-v-a6d2e276]{position:fixed;top:0;left:0;width:100vw;height:100vh;z-index:17;display:flex;flex-direction:column;justify-content:center;align-items:center;background:rgba(0,0,0,.25)}.customer-accounts-app__modal[data-v-a6d2e276]{width:580px;box-sizing:border-box;max-height:100%;min-height:415px;overflow-y:auto;z-index:18;padding:24px;background:#fff;display:flex}.wsite-theme-dark .customer-accounts-app__modal-wrapper[data-v-a6d2e276]{background:hsla(0,0%,100%,.25)}.wsite-theme-dark .customer-accounts-app__modal[data-v-a6d2e276]{background:#000}@media (max-width:600px){.customer-accounts-app__modal[data-v-a6d2e276]{width:100%;height:100%}}</style><style type="text/css">.account-details__wrapper[data-v-4c887ac0]{width:100%}.account-details__group[data-v-4c887ac0]{margin-bottom:24px;text-align:left}.account-details__table-container[data-v-4c887ac0]{overflow:auto}.account-details__title[data-v-4c887ac0]{text-align:left;margin-bottom:6px}.account-details__log-out[data-v-4c887ac0]{cursor:pointer}.account-details__error[data-v-4c887ac0]{margin:36px 0;text-align:left}.error[data-v-4c887ac0]{color:#ff2825}</style><style type="text/css">.section-header__wrapper[data-v-1e785cc9]{display:flex;flex-direction:row;align-items:center;justify-content:space-between}.section-header__text[data-v-1e785cc9]{margin:24px 0}</style><style type="text/css">.empty-content-area__container[data-v-8fbca36e]{display:flex;flex-direction:row;align-items:center;justify-content:center;margin-bottom:32px;width:100%;min-height:80px;background:#f2f2f2}.wsite-theme-dark .empty-content-area__container[data-v-8fbca36e]{background:#000}</style><style type="text/css">.order-details__table[data-v-244ed988]{width:100%;margin-top:12px;margin-bottom:36px;empty-cells:show;border-collapse:collapse;border-spacing:0;border:none}.order-details__table th[data-v-244ed988]{margin:0;padding:16px;text-align:left;background:#f2f2f2}.wsite-theme-dark .order-details__table th[data-v-244ed988]{background:#000}.order-details__table td[data-v-244ed988]{margin:0;padding:16px;text-align:left}</style><style type="text/css">.shipping-address__wrapper[data-v-4fc55e12]{text-align:left;width:100%}</style><style type="text/css">.reset-password__link[data-v-72d92d0c]{cursor:pointer}</style></head>
+
+  <body class="no-header-page  wsite-page-index  full-width-on  wsite-theme-light postload" style="min-height: 100%; position: relative; height: auto !important; padding-bottom: 62px !important;">
+    <header>
+      <div class="inner">
+        <a href="https://jashbon-studios.github.io/">
+          <h1>Jåshbön Studios</h1>
+        </a>
+        <h2>Welcome to Jåshbön Studios Official Homepage</h2>
+        
+        
+          <a href="https://github.com/Jashbon-Studios" class="button"><small>Follow me on</small> GitHub</a>
+        
+      </div>
+    </header>
+
+    <div id="content-wrapper">
+      <div class="inner clearfix">
+        <section id="main-content">
+          
 		<title>Jåshbön Studios - Home</title><meta property="og:site_name" content="Jåshbön Studios">
 <meta property="og:title" content="Jåshbön Studios">
 <meta property="og:description" content="Jåshbön studios is a game creating company that follows the players wants and needs. Here you can meet our team and services.">
@@ -72,7 +130,7 @@
 .wsite-background {background-image: url("/uploads/1/3/7/8/137866817/background-images/1919799793.png") !important;background-repeat: no-repeat !important;background-position: 50.00% 41.13% !important;background-size: 100% !important;background-color: transparent !important;}
 body.wsite-background {background-attachment: fixed !important;}.wsite-background.wsite-custom-background{ background-size: cover !important}
 </style>
-		<script src="/files/templateArtifacts.js?1636475429"></script>
+		<script async="" src="//cdn2.editmysite.com/js/wsnbn/snowday262.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="/files/templateArtifacts.js?1636475429"></script>
 <script async="" src="//cdn2.editmysite.com/js/wsnbn/snowday262.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script>
 var STATIC_BASE = '//cdn1.editmysite.com/';
 var ASSETS_BASE = '//cdn2.editmysite.com/';
@@ -114,7 +172,7 @@ _W.setup_model_rpc({"rpc_namespace":"_W.CustomerAccounts.RPC","model_namespace":
 			'',
 			'active',
 			false,
-			{"navigation\/item":"<li {{#id}}id=\"{{id}}\"{{\/id}} class=\"wsite-menu-item-wrap\">\n\t<a\n\t\t{{^nonclickable}}\n\t\t\t{{^nav_menu}}\n\t\t\t\thref=\"{{url}}\"\n\t\t\t{{\/nav_menu}}\n\t\t{{\/nonclickable}}\n\t\t{{#target}}\n\t\t\ttarget=\"{{target}}\"\n\t\t{{\/target}}\n\t\t{{#membership_required}}\n\t\t\tdata-membership-required=\"{{.}}\"\n\t\t{{\/membership_required}}\n\t\tclass=\"wsite-menu-item\"\n\t\t>\n\t\t{{{title_html}}}\n\t<\/a>\n\t{{#has_children}}{{> navigation\/flyout\/list}}{{\/has_children}}\n<\/li>\n","navigation\/flyout\/list":"<div class=\"wsite-menu-wrap\" style=\"display:none\">\n\t<ul class=\"wsite-menu\">\n\t\t{{#children}}{{> navigation\/flyout\/item}}{{\/children}}\n\t<\/ul>\n<\/div>\n","navigation\/flyout\/item":"<li {{#id}}id=\"{{id}}\"{{\/id}}\n\tclass=\"wsite-menu-subitem-wrap {{#is_current}}wsite-nav-current{{\/is_current}}\"\n\t>\n\t<a\n\t\t{{^nonclickable}}\n\t\t\t{{^nav_menu}}\n\t\t\t\thref=\"{{url}}\"\n\t\t\t{{\/nav_menu}}\n\t\t{{\/nonclickable}}\n\t\t{{#target}}\n\t\t\ttarget=\"{{target}}\"\n\t\t{{\/target}}\n\t\tclass=\"wsite-menu-subitem\"\n\t\t>\n\t\t<span class=\"wsite-menu-title\">\n\t\t\t{{{title_html}}}\n\t\t<\/span>{{#has_children}}<span class=\"wsite-menu-arrow\">&gt;<\/span>{{\/has_children}}\n\t<\/a>\n\t{{#has_children}}{{> navigation\/flyout\/list}}{{\/has_children}}\n<\/li>\n"},
+			{"navigation\/item":"<li id=\"\" class=\"wsite-menu-item-wrap\">\n\t<a\n\t\t\n\t\t\t\n\t\t\t\thref=\"\"\n\t\t\t\n\t\t\n\t\t\n\t\t\ttarget=\"\"\n\t\t\n\t\t\n\t\t\tdata-membership-required=\"\"\n\t\t\n\t\tclass=\"wsite-menu-item\"\n\t\t>\n\t\t}\n\t<\/a>\n\t\n<\/li>\n","navigation\/flyout\/list":"<div class=\"wsite-menu-wrap\" style=\"display:none\">\n\t<ul class=\"wsite-menu\">\n\t\t\n\t<\/ul>\n<\/div>\n","navigation\/flyout\/item":"<li id=\"\"\n\tclass=\"wsite-menu-subitem-wrap wsite-nav-current\"\n\t>\n\t<a\n\t\t\n\t\t\t\n\t\t\t\thref=\"\"\n\t\t\t\n\t\t\n\t\t\n\t\t\ttarget=\"\"\n\t\t\n\t\tclass=\"wsite-menu-subitem\"\n\t\t>\n\t\t<span class=\"wsite-menu-title\">\n\t\t\t}\n\t\t<\/span><span class=\"wsite-menu-arrow\">&gt;<\/span>\n\t<\/a>\n\t\n<\/li>\n"},
 			{}
 		)
 	}
@@ -122,8 +180,8 @@ _W.setup_model_rpc({"rpc_namespace":"_W.CustomerAccounts.RPC","model_namespace":
 </script>
 		
 		
-	<style type="text/css">.customer-accounts-app__body[data-v-364d7bb4]{width:100%}.customer-accounts-app__modal-wrapper[data-v-364d7bb4]{position:fixed;top:0;left:0;width:100vw;height:100vh;z-index:17;display:flex;flex-direction:column;justify-content:center;align-items:center;background:rgba(0,0,0,.25)}.customer-accounts-app__modal[data-v-364d7bb4]{width:580px;box-sizing:border-box;max-height:100%;min-height:415px;overflow-y:auto;z-index:18;padding:24px;background:#fff;display:flex}.wsite-theme-dark .customer-accounts-app__modal-wrapper[data-v-364d7bb4]{background:hsla(0,0%,100%,.25)}.wsite-theme-dark .customer-accounts-app__modal[data-v-364d7bb4]{background:#000}@media (max-width:750px){.customer-accounts-app__modal[data-v-364d7bb4]{width:100%;height:100%}}</style><style type="text/css">.loading[data-v-09548d63]{display:flex;width:100%;align-items:center;justify-content:center;margin:15px 0}</style><style type="text/css">.page-header__wrapper[data-v-04176401]{display:flex;flex-direction:row;align-items:center;justify-content:space-between}.page-header__text[data-v-04176401]{margin:0 32px 0 0}.page-header__divider[data-v-04176401]{height:1px;width:100%;margin:24px 0;background:rgba(0,0,0,.1)}</style><style type="text/css">.form-field[data-v-64b6436e]{margin:16px 0}.form-field__label[data-v-64b6436e]{display:flex;flex-direction:column}.form-field__title[data-v-64b6436e]{margin-bottom:8px;font-size:90%;color:#3b526d}.wsite-theme-dark .form-field__title[data-v-64b6436e]{color:#dfe6ee}.form-field__error[data-v-64b6436e]{margin-top:14px}</style><style type="text/css">.field-error[data-v-60fd9ad5]{color:#ff2825}</style><style type="text/css">.form-instructions[data-v-1b20c747]{margin-bottom:24px}</style><style type="text/css">.site-input[data-v-7c9d3469]{border:1px solid #dbdbdb;padding:8px;border-radius:2px}.site-input__is-invalid[data-v-7c9d3469]{border:1px solid #ff2825}</style><style type="text/css">.actions-row[data-v-e3a0cd02]{margin-top:24px;display:flex;flex-direction:row;justify-content:space-between;align-items:center}.actions-row div[data-v-e3a0cd02]:first-child{margin-right:16px}</style><style type="text/css">.back-button[data-v-089f4bca]{display:flex;flex-direction:row;align-items:center}.back-button__icon[data-v-089f4bca]{margin:0 8px 0 0}</style><style type="text/css">p[data-v-5e8be7b5]{font-weight:700}.order-confirmation__checkbox[data-v-5e8be7b5]{margin-right:6px}.order-confirmation__success-message[data-v-5e8be7b5]{display:flex;flex-direction:row;align-items:center}</style><style type="text/css">.register__privacy-policy[data-v-00b778c0]{margin:24px 0;font-size:small}</style><style type="text/css">.customer-accounts-app__body[data-v-a6d2e276]{width:100%}.customer-accounts-app__modal-wrapper[data-v-a6d2e276]{position:fixed;top:0;left:0;width:100vw;height:100vh;z-index:17;display:flex;flex-direction:column;justify-content:center;align-items:center;background:rgba(0,0,0,.25)}.customer-accounts-app__modal[data-v-a6d2e276]{width:580px;box-sizing:border-box;max-height:100%;min-height:415px;overflow-y:auto;z-index:18;padding:24px;background:#fff;display:flex}.wsite-theme-dark .customer-accounts-app__modal-wrapper[data-v-a6d2e276]{background:hsla(0,0%,100%,.25)}.wsite-theme-dark .customer-accounts-app__modal[data-v-a6d2e276]{background:#000}@media (max-width:600px){.customer-accounts-app__modal[data-v-a6d2e276]{width:100%;height:100%}}</style><style type="text/css">.account-details__wrapper[data-v-4c887ac0]{width:100%}.account-details__group[data-v-4c887ac0]{margin-bottom:24px;text-align:left}.account-details__table-container[data-v-4c887ac0]{overflow:auto}.account-details__title[data-v-4c887ac0]{text-align:left;margin-bottom:6px}.account-details__log-out[data-v-4c887ac0]{cursor:pointer}.account-details__error[data-v-4c887ac0]{margin:36px 0;text-align:left}.error[data-v-4c887ac0]{color:#ff2825}</style><style type="text/css">.section-header__wrapper[data-v-1e785cc9]{display:flex;flex-direction:row;align-items:center;justify-content:space-between}.section-header__text[data-v-1e785cc9]{margin:24px 0}</style><style type="text/css">.empty-content-area__container[data-v-8fbca36e]{display:flex;flex-direction:row;align-items:center;justify-content:center;margin-bottom:32px;width:100%;min-height:80px;background:#f2f2f2}.wsite-theme-dark .empty-content-area__container[data-v-8fbca36e]{background:#000}</style><style type="text/css">.order-details__table[data-v-244ed988]{width:100%;margin-top:12px;margin-bottom:36px;empty-cells:show;border-collapse:collapse;border-spacing:0;border:none}.order-details__table th[data-v-244ed988]{margin:0;padding:16px;text-align:left;background:#f2f2f2}.wsite-theme-dark .order-details__table th[data-v-244ed988]{background:#000}.order-details__table td[data-v-244ed988]{margin:0;padding:16px;text-align:left}</style><style type="text/css">.shipping-address__wrapper[data-v-4fc55e12]{text-align:left;width:100%}</style><style type="text/css">.reset-password__link[data-v-72d92d0c]{cursor:pointer}</style><link href="//cdn2.editmysite.com/css/free-footer-v3.css?buildtime=1636766365" rel="stylesheet"></head>
-	<body class="no-header-page  wsite-page-index  full-width-on  wsite-theme-light postload" style="min-height: 100%; position: relative; height: auto !important; padding-bottom: 62px !important;"><!-- header-wrap -->
+	<style type="text/css">.customer-accounts-app__body[data-v-364d7bb4]{width:100%}.customer-accounts-app__modal-wrapper[data-v-364d7bb4]{position:fixed;top:0;left:0;width:100vw;height:100vh;z-index:17;display:flex;flex-direction:column;justify-content:center;align-items:center;background:rgba(0,0,0,.25)}.customer-accounts-app__modal[data-v-364d7bb4]{width:580px;box-sizing:border-box;max-height:100%;min-height:415px;overflow-y:auto;z-index:18;padding:24px;background:#fff;display:flex}.wsite-theme-dark .customer-accounts-app__modal-wrapper[data-v-364d7bb4]{background:hsla(0,0%,100%,.25)}.wsite-theme-dark .customer-accounts-app__modal[data-v-364d7bb4]{background:#000}@media (max-width:750px){.customer-accounts-app__modal[data-v-364d7bb4]{width:100%;height:100%}}</style><style type="text/css">.loading[data-v-09548d63]{display:flex;width:100%;align-items:center;justify-content:center;margin:15px 0}</style><style type="text/css">.page-header__wrapper[data-v-04176401]{display:flex;flex-direction:row;align-items:center;justify-content:space-between}.page-header__text[data-v-04176401]{margin:0 32px 0 0}.page-header__divider[data-v-04176401]{height:1px;width:100%;margin:24px 0;background:rgba(0,0,0,.1)}</style><style type="text/css">.form-field[data-v-64b6436e]{margin:16px 0}.form-field__label[data-v-64b6436e]{display:flex;flex-direction:column}.form-field__title[data-v-64b6436e]{margin-bottom:8px;font-size:90%;color:#3b526d}.wsite-theme-dark .form-field__title[data-v-64b6436e]{color:#dfe6ee}.form-field__error[data-v-64b6436e]{margin-top:14px}</style><style type="text/css">.field-error[data-v-60fd9ad5]{color:#ff2825}</style><style type="text/css">.form-instructions[data-v-1b20c747]{margin-bottom:24px}</style><style type="text/css">.site-input[data-v-7c9d3469]{border:1px solid #dbdbdb;padding:8px;border-radius:2px}.site-input__is-invalid[data-v-7c9d3469]{border:1px solid #ff2825}</style><style type="text/css">.actions-row[data-v-e3a0cd02]{margin-top:24px;display:flex;flex-direction:row;justify-content:space-between;align-items:center}.actions-row div[data-v-e3a0cd02]:first-child{margin-right:16px}</style><style type="text/css">.back-button[data-v-089f4bca]{display:flex;flex-direction:row;align-items:center}.back-button__icon[data-v-089f4bca]{margin:0 8px 0 0}</style><style type="text/css">p[data-v-5e8be7b5]{font-weight:700}.order-confirmation__checkbox[data-v-5e8be7b5]{margin-right:6px}.order-confirmation__success-message[data-v-5e8be7b5]{display:flex;flex-direction:row;align-items:center}</style><style type="text/css">.register__privacy-policy[data-v-00b778c0]{margin:24px 0;font-size:small}</style><style type="text/css">.customer-accounts-app__body[data-v-a6d2e276]{width:100%}.customer-accounts-app__modal-wrapper[data-v-a6d2e276]{position:fixed;top:0;left:0;width:100vw;height:100vh;z-index:17;display:flex;flex-direction:column;justify-content:center;align-items:center;background:rgba(0,0,0,.25)}.customer-accounts-app__modal[data-v-a6d2e276]{width:580px;box-sizing:border-box;max-height:100%;min-height:415px;overflow-y:auto;z-index:18;padding:24px;background:#fff;display:flex}.wsite-theme-dark .customer-accounts-app__modal-wrapper[data-v-a6d2e276]{background:hsla(0,0%,100%,.25)}.wsite-theme-dark .customer-accounts-app__modal[data-v-a6d2e276]{background:#000}@media (max-width:600px){.customer-accounts-app__modal[data-v-a6d2e276]{width:100%;height:100%}}</style><style type="text/css">.account-details__wrapper[data-v-4c887ac0]{width:100%}.account-details__group[data-v-4c887ac0]{margin-bottom:24px;text-align:left}.account-details__table-container[data-v-4c887ac0]{overflow:auto}.account-details__title[data-v-4c887ac0]{text-align:left;margin-bottom:6px}.account-details__log-out[data-v-4c887ac0]{cursor:pointer}.account-details__error[data-v-4c887ac0]{margin:36px 0;text-align:left}.error[data-v-4c887ac0]{color:#ff2825}</style><style type="text/css">.section-header__wrapper[data-v-1e785cc9]{display:flex;flex-direction:row;align-items:center;justify-content:space-between}.section-header__text[data-v-1e785cc9]{margin:24px 0}</style><style type="text/css">.empty-content-area__container[data-v-8fbca36e]{display:flex;flex-direction:row;align-items:center;justify-content:center;margin-bottom:32px;width:100%;min-height:80px;background:#f2f2f2}.wsite-theme-dark .empty-content-area__container[data-v-8fbca36e]{background:#000}</style><style type="text/css">.order-details__table[data-v-244ed988]{width:100%;margin-top:12px;margin-bottom:36px;empty-cells:show;border-collapse:collapse;border-spacing:0;border:none}.order-details__table th[data-v-244ed988]{margin:0;padding:16px;text-align:left;background:#f2f2f2}.wsite-theme-dark .order-details__table th[data-v-244ed988]{background:#000}.order-details__table td[data-v-244ed988]{margin:0;padding:16px;text-align:left}</style><style type="text/css">.shipping-address__wrapper[data-v-4fc55e12]{text-align:left;width:100%}</style><style type="text/css">.reset-password__link[data-v-72d92d0c]{cursor:pointer}</style><link href="//cdn2.editmysite.com/css/free-footer-v3.css?buildtime=1636766365" rel="stylesheet">
+	<!-- header-wrap -->
 	<div id="header-wrap">
 		<div id="header" class="content-wrap container">
 			<label id="nav-trigger" class="hamburger" for="mobile-trigger"></label>
@@ -138,19 +196,19 @@ _W.setup_model_rpc({"rpc_namespace":"_W.CustomerAccounts.RPC","model_namespace":
 </span></div>
 			<div id="header-right">
 				<div id="nav" class="nav"><ul class="wsite-menu-default">
-		<li id="active" class="wsite-menu-item-wrap   wsite-nav-1" style="position: relative;">
+		<li id="active" class="wsite-menu-item-wrap      wsite-nav-1" style="position: relative;">
 			<a href="/" class="wsite-menu-item" style="position: relative;">
 				Home
 			</a>
 			
 		</li>
-		<li id="pg415682312614519456" class="wsite-menu-item-wrap   wsite-nav-2" style="position: relative;">
+		<li id="pg415682312614519456" class="wsite-menu-item-wrap      wsite-nav-2" style="position: relative;">
 			<a href="/standingbare.html" class="wsite-menu-item" style="position: relative;">
 				STANDINGBARE
 			</a>
 			
 		</li>
-		<li id="pg429930468140734480" class="wsite-menu-item-wrap   wsite-nav-3" style="position: relative;">
+		<li id="pg429930468140734480" class="wsite-menu-item-wrap      wsite-nav-3" style="position: relative;">
 			<a href="/jobs.html" class="wsite-menu-item" style="position: relative;">
 				Jobs
 			</a>
@@ -165,26 +223,7 @@ _W.setup_model_rpc({"rpc_namespace":"_W.CustomerAccounts.RPC","model_namespace":
 
 	<div id="wrapper" style="display: block;">
 		<div id="wrapper-content">
-			<div id="navmobile" class="nav"><div class="wsite-mobile-menu" style="display: block;"><div class="wsite-animation-wrap" style="position: relative; height: 100%;"><ul class="wsite-menu-default wsite-menu-slide" style="position: absolute; top: 0px; left: 0px; width: 100%; height: 100%;">
-		<li id="active" class="wsite-menu-item-wrap">
-			<a href="/" class="wsite-menu-item">
-				Home
-			</a>
-			
-		</li>
-		<li id="pg415682312614519456" class="wsite-menu-item-wrap">
-			<a href="/standingbare.html" class="wsite-menu-item">
-				STANDINGBARE
-			</a>
-			
-		</li>
-		<li id="pg429930468140734480" class="wsite-menu-item-wrap">
-			<a href="/jobs.html" class="wsite-menu-item">
-				Jobs
-			</a>
-			
-		</li>
-</ul></div></div>
+			<div id="navmobile" class="nav"><div class="wsite-mobile-menu" style="display: block;"></div>
 </div>
 
 			<div id="main-content" style="padding-top: 125px;">
@@ -426,3 +465,20 @@ _W.setup_model_rpc({"rpc_namespace":"_W.CustomerAccounts.RPC","model_namespace":
 	window._W.isEUUser = false;
 	window._W.showCookieToAll = "";
 </script>
+
+
+        </section>
+
+        <aside id="sidebar">
+          
+
+          
+
+          <p>This page was generated by <a href="https://pages.github.com">GitHub Pages</a>.</p>
+        </aside>
+      </div>
+    </div>
+
+  
+
+<div id="wsite-menus"></div></body></html>
